@@ -37,7 +37,7 @@ nav ul li {
 nav ul {
 	padding-left: 0;
 	margin-left: 0;
-	background-color: #320138;
+	background-color: #3E0320;
 	color: White;
 	float: left;
 	width: 100%;
@@ -49,7 +49,7 @@ nav ul {
 
 nav ul li a {
 	padding: 0.2em 1em;
-	background-color: #320138;
+	background-color: #3E0320;
 	color: White;
 	text-decoration: none;
 	float: left;
@@ -57,6 +57,6 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-	background-color: #68266F;
+	background-color: #FF0007;
 	color: #fff;
 }
