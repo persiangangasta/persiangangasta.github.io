@@ -1,16 +1,62 @@
-p {
-	color:black;
-} 
+body {
+	background-color: #000;
+}
 
-body{
-	background-color: #679933
+#mainContent {
+	background-color: #679933;
+	margin: 40px 100px;
+	padding: 20px; 30px;
+	border: solid;
+	border-radius: 25px;
 }
 
 h1 {
-	color:red;
-	font-family : verdana, arial, san-serif;
+	clear: left;
+	color: #68266F;
+	font-family: 'Indie Flower', cursive;
 	padding-left: 100px;
-	border-width : 2px;
-	border-style : 2px;
+	border-width: 2px;
+	border-style: dashed;
+	margin-bottom: 50px;
 }
 
+.pullquote {
+	margin-left:75px;
+	margin-right:125px;
+	font-size: 1.5em;
+}
+
+p {
+	color: #320138;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: #320138;
+	color: White;
+	float: left;
+	width: 100%;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+nav ul li a {
+	padding: 0.2em 1em;
+	background-color: #320138;
+	color: White;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+}
+
+nav ul li a:hover {
+	background-color: #68266F;
+	color: #fff;
+}
