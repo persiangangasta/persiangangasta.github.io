@@ -4,10 +4,10 @@ body {
 
 #mainContent {
 	background-color: #000000;
-	margin: 40px 100px;
-	padding: 20px; 30px;
+	margin: 50px 100px;
+	padding: 30px; 20px;
 	border: solid;
-	border-radius: 25px;
+	border-radius: 30px;
 }
 
 h1 {
@@ -15,15 +15,15 @@ h1 {
 	color: #68266F;
 	font-family: 'Indie Flower', cursive;
 	padding-left: 100px;
-	border-width: 2px;
+	border-width: 2.5px;
 	border-style: dashed;
 	margin-bottom: 50px;
 }
 
 .pullquote {
 	margin-left:75px;
-	margin-right:125px;
-	font-size: 1.5em;
+	margin-right:130px;
+	font-size: 2em;
 }
 
 p {
