@@ -1,33 +1,33 @@
 body {
-	background-color: #74BB61;
+	background-color: #C96666;
 }
 
 #mainContent {
-	background-color: #679933;
-	margin: 40px 100px;
-	padding: 20px; 30px;
+	background-color: #000000;
+	margin: 60px 100px;
+	padding: 30px; 20px;
 	border: solid;
-	border-radius: 25px;
+	border-radius: 40px;
 }
 
 h1 {
 	clear: left;
-	color: #68266F;
+	color: #F88C00;
 	font-family: 'Indie Flower', cursive;
-	padding-left: 100px;
-	border-width: 2px;
+	padding-left: 120px;
+	border-width: 3px;
 	border-style: dashed;
 	margin-bottom: 50px;
 }
 
 .pullquote {
-	margin-left:75px;
-	margin-right:125px;
-	font-size: 1.5em;
+	margin-left:80px;
+	margin-right:150px;
+	font-size: 2em;
 }
 
 p {
-	color: #320138;
+	color: #3E0320;
 }
 
 nav ul li {
@@ -37,7 +37,7 @@ nav ul li {
 nav ul {
 	padding-left: 0;
 	margin-left: 0;
-	background-color: #320138;
+	background-color: #3E0320;
 	color: White;
 	float: left;
 	width: 100%;
@@ -49,14 +49,14 @@ nav ul {
 
 nav ul li a {
 	padding: 0.2em 1em;
-	background-color: #320138;
+	background-color: #3E0320;
 	color: White;
 	text-decoration: none;
 	float: left;
-	border-right: 1px solid #fff;
+	border-right: 1px solid #6A0000;
 }
 
 nav ul li a:hover {
-	background-color: #68266F;
-	color: #fff;
+	background-color: #FF0007;
+	color: #6A0000;
 }
